@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//数组中的逆序对数
 
 int inversePairsCore( int *iarr , int begin , int mid , int end , int *copy )
 {
